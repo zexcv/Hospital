@@ -11,3 +11,11 @@
 
 ## Graphic I used:
 ![Books](przychodnia/books.jpg)
+![Building](przychodnia/building.jpg)
+![Fantasy](przychodnia/fantasy.jpg)
+![Gradient](przychodnia/gradient.jpg)
+![Notes](przychodnia/notes.jpg)
+![Reception](przychodnia/recepcja.jpg)
+
+# Sources:
+* pixabay.com
